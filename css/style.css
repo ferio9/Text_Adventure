@@ -1,0 +1,51 @@
+html{
+    height: 100%;
+}
+
+body {
+    background-image: url("../img/papiro.jpg");
+    height: 90%;
+}
+
+.town img {
+    height: auto;
+    width: 570px;
+    background-repeat: no-repeat;
+}
+.title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.description {
+    font-size: 18px;
+}
+.path {
+    line-height: 65%;
+    font-size: 18px;
+    color: blue;
+}
+.blacksmith img {
+    height: auto;
+    width: 570px;
+    background-repeat: no-repeat; 
+}
+.shop img {
+    height: auto;
+    width: 570px;
+    background-repeat: no-repeat; 
+}
+.tavern img {
+    height: auto;
+    width: 570px;
+    background-repeat: no-repeat; 
+}
+.guild img {
+    height: auto;
+    width: 570px;
+    background-repeat: no-repeat; 
+}
+.travel img {
+    height: auto;
+    width: 570px;
+    background-repeat: no-repeat; 
+}
